@@ -1,9 +1,9 @@
-
+import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 import './App.css'
 //TODO: importar import { RouterProvider, createBrowserRouter } from "react-router-dom"; y las paginas
 
 
-const router = createBrowserRouter([
+/*const router = createBrowserRouter([
 	{
 		path: "/", //Ruta de la URL
     //errorElement: <ErrorPage />, //Componente para cargar página de errores
@@ -30,7 +30,7 @@ const router = createBrowserRouter([
       },
     ], //Componentes que son navegables
 	},
-]);
+]);*/
 
 
 function App() {
@@ -43,4 +43,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
