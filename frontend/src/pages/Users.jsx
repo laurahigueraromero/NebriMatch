@@ -1,9 +1,14 @@
+import DescripcionUsuario from "../componentes/DescripcionUsuario"
 
 
 function Users() {
+  
+  // perfil de usuario==>  con buscador(comunidades), boton con acceso a todas las comunidades y boton
+  // con  acceso a chat con previo formulario de intereses (matches)
 
-  // componentes : buscador, mensajeria
 
+
+  // componentes : cabecera, buscador, mensajeria, comunidades, descripcion usuario, formulario (matches)
 
 
   return (
