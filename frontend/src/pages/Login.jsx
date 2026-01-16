@@ -1,4 +1,5 @@
-import '../../../backend/config/database'
+//pagina de acceso
+// componentes: cabecera
 
 function Login() {
   return (
