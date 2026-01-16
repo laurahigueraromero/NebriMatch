@@ -1,9 +1,7 @@
-
-
 function Ayuda() {
   return (
-    <div className="contenedor-preguntas-frecuentes">Ayuda</div>
+    <div className="contenedor">Ayuda</div>
   )
 }
 
-export default Ayuda
+export default Ayuda;
